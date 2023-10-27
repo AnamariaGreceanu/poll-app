@@ -2,7 +2,7 @@
   `python -m venv env`
 - activate the env
   `env\Scripts\activate`
-- run the ap
+- run the app
 
 ```
 	python manage.py runserver
